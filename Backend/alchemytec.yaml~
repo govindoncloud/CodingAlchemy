@@ -1,0 +1,6 @@
+mongohost: localhost
+mongoport: 27017
+mongodb: alchemytec
+http:
+  port: 9000
+  adminPort: 9001
